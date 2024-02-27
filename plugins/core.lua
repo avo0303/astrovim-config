@@ -20,7 +20,7 @@ return {
       return opts
     end,
   },
-    "AstroNvim/astrocommunity",
+  "AstroNvim/astrocommunity",
   { import = "astrocommunity.pack.java" },
   {
     "mfussenegger/nvim-jdtls",
@@ -35,8 +35,8 @@ return {
               },
               {
                 name = "JavaSE-21",
-                path = "~/.sdkman/candidates/java/21.0.2-tem/"
-              }
+                path = "~/.sdkman/candidates/java/21.0.2-tem/",
+              },
             },
           },
         },

@@ -6,4 +6,5 @@ return {
 
   { import = "astrocommunity.colorscheme.catppuccin" },
   { import = "astrocommunity.pack.java" },
+  { import = "astrocommunity.pack.lua" },
 }
